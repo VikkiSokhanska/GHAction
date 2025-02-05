@@ -1,1 +1,1 @@
-# GHAction
+# Github Action. Continuous Integration
